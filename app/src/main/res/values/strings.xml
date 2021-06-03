@@ -5,4 +5,8 @@
     <string name="set">SET</string>
     <string name="reset">RESET</string>
     <string name="poll">POLL</string>
+    <string name="server">SERVER</string>
+    <string name="client">CLIENT</string>
+    <string name="port">Insert port number</string>
+    <string name="start_server">START</string>
 </resources>
